@@ -1,0 +1,8 @@
+# Wokwi Library List
+# See https://docs.wokwi.com/guides/libraries
+
+ESP32Servo
+Blynk
+WiFi
+BlynkESP32_BT_WF
+PubSubClient
