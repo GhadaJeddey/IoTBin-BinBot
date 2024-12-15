@@ -1,6 +1,7 @@
 # IoTBin-BinBot
 
 # Hardware used for this project 
+- Esp32 SoC
 - 2 Ultrasonic Sensors
 - 1 servo motor
 - cables
