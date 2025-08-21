@@ -3,8 +3,8 @@
 # Hardware used for this project 
 - Esp32 SoC
 - 2 Ultrasonic Sensors
-- 1 servo motor
-- cables
+- 1 Servo ;otor
+- F/M and M/M Cables
 
 # Tools
 - The project was initially tested on wokwi online simulator
